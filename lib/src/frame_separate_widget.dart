@@ -59,7 +59,7 @@ class FrameSeparateWidgetState extends State<FrameSeparateWidget> {
   @override
   void didUpdateWidget(FrameSeparateWidget oldWidget) {
     super.didUpdateWidget(oldWidget);
-    transformWidget();
+    // transformWidget();
   }
 
   @override
